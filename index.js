@@ -1,4 +1,4 @@
 import 'babel-polyfill';
-import Editor from 'draft-js-plugins-editor';
+import * as DraftPluginsEditor from 'draft-js-plugins-editor';
 
-export default Editor;
+export default DraftPluginsEditor;
