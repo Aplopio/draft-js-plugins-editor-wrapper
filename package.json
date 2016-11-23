@@ -1,6 +1,6 @@
 {
   "name": "draft-js-plugins-editor-wrapper",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "files": ["src/"],
   "main": "src/index.js",
   "description": "DraftJS Editor Wrapper",
